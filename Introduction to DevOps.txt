@@ -1,0 +1,85 @@
+Introduction to DevOps :-
+
+
+=> What is DevOps ?
+
+DevOps = Development + Operations
+
+DevOps :- DevOps is Methodology , Process , Operation Which is used in industry that unifies Development and Operations to deliver software faster , reliable , and at a scale through automation and collaboration.
+
+Code Build -> Test -> Deploy (Infinite Process) (Continuous Loop between Build, Test and Deploy) 
+
+DevOps is a Methodolgy in which we bridge the gap between Developers and Operation Team , It includes tools, Softwares, Processes, OpenSource Tools, Cloud Services, Operating System in order to facilitate the App to its Deployment Stage.
+
+DevOps Engineer - A Person that follows these Methodologies, and make the life of developers and engineers easy with the help of automation and collaboration.
+
+
+=> Why are we Learning this ?
+
+Firstly a Startup starts with the laptop in which the Particular system is built, then it goes to server when the system and working is expanded and after Server it goes to Cloud, So in order to make sure that the system runs comfortably in all devices, pipelines are being made by the DevOps Engineer in order to make Development and Operation easy.
+
+In order to scale the system (0 -> 100)
+
+
+
+=> How can i become One ?
+
+Skills + Project + Proof of Work + Network 
+
+-> Hands on Linux, Open Source Tools
+-> Projects and Blogs
+-> Case Studies and Assignments
+-> Social Media Presence (LinkedIn, GitHub, Twitter)
+-> Mock Interview and Preparation
+
+
+(Code + Build + Test + Deploy)
+
+1) Git & GitHub  (Very much needed)
+
+-> Code Management
+-> Version Control System
+-> Collaboration
+
+2) Docker & Docker Swarm
+
+Docker is for making container and Docker Swarm is like a Backup Container when a Container get Removed or misplaced then Docker Swarm can be used to make a Backup Container
+
+-> Virtualization
+-> Lightweight
+-> Reusability
+
+
+3) Jenkins
+
+Build  >>>  Test  >>> Deploy
+
+-> To make CI/CD Pipelines
+
+
+4) Kubernetes & Helm 
+
+Kubernetes is a tool which is Used to manage Containers
+
+If one dies then it will be Auto Healed or if one container have too much users then it will replicated 
+
+=> Why do we need Container Orchestration ?
+
+Configurations and Listings are told through Helm Charts to the Kubernetes 
+
+Docker (Ship) and its Captain is Kubernetes and application in the form of containers are working in the background 
+
+
+5) Cloud Services (AWS, Azure, GCP)
+
+Rental Services for Server, CPU, Systems from Cloud  
+
+
+
+
+
+
+
+
+
+
