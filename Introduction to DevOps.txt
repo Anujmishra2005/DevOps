@@ -75,7 +75,7 @@ Docker (Ship) and its Captain is Kubernetes and application in the form of conta
 Rental Services for Server, CPU, Systems from Cloud  
 
 
-
+DevOps include various tools which made the things more easier for Development Team to Scale any System from a Small Devic to a Larger Server by making a Bridge between the Development team and Operation Team
 
 
 
