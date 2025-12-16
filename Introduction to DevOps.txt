@@ -77,8 +77,7 @@ Rental Services for Server, CPU, Systems from Cloud
 
 DevOps include various tools which made the things more easier for Development Team to Scale any System from a Small Devic to a Larger Server by making a Bridge between the Development team and Operation Team, It also make life of Engineers easier.
 
-
-
+DevOps is more popular in todays world in order to Automate things
 
 
 
