@@ -80,5 +80,5 @@ DevOps include various tools which made the things more easier for Development T
 DevOps is more popular in todays world in order to Automate things
 
 
-
+DevOps is all about Operations 
 
